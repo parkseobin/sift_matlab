@@ -5,4 +5,4 @@ SIFT implementation with matlab
 
 
 # References
-- https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf
+- Distinctive Image Features from Scale-Invariant Keypoints (https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
